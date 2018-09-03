@@ -1,0 +1,30 @@
+                                    Problem set #1
+
+Mon: Completed Survey
+
+
+#1
+	LUCAS BOUCHARD
+FACT #1: He went to Glenbrook North High School, From Illinois area. (Pulled from Facebook)
+FACT #2: He is currently a student at CU Boulder, finishing up his degree in INFO Science and looking for internship (Pulled from LinkedIn)
+FACT #3: He has lived in three different states. Colorado, Illinois, and Maine (Pulled from InstantCheckMate)
+FACT #4: He is a huge fan of the Chicago Bulls, and enjoys the game of basketball in his spare time (Pulled from Reddit)
+FACT #5: He loves to hike, and is naturally attracted to the outdoors. He enjoys spending time outside and enjoying what's around him in Colorado. (Pulled from Instagram)
+
+#2
+Version Control Scenarios:
+    1.) In major brands/companies, having version control of old or previous logos are important for throwback and retro collections.
+    2.) In any form of construction, having prior architectural layouts help future and previous development planners to contrast and compare which version is most advantageous for the situation.
+    3.) As data analysts, version control in coding languages help us find inefficiencies and generate more effective pathways. Knowing which versions do not work or are less effective help guide new innovations by using visible past information to help create better connections.
+    
+#3
+ - https://github.com/justinklemp/INFO3401-exp
+
+#4
+Merging: When two people merge at the same time on a master file, it reads it as someone else trying to update from a previous non-updated version. Two people cannot work and change off of the master file, although they can work at the same time on branch files. To resolve the issue you have to re-pull, commit, and push.
+
+#5
+Strategies from Version Control:
+	1.)Make sure to always try and be working off the latest version with your collaborators to avoid errors.
+	2.) When committing, adding additional description information is useful when further explanation is necessary with an updated push. This helps collaborators when visiting prior versions.
+	3.)Before pushing a new commit or change, the summary code should be an accurate description of what changes were made to communicate clearly with other teammates in the recorded version control changes.
